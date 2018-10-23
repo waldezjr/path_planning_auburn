@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="5530.h" open="1" top="0" tabpos="6">
+		<Cursor position="65" topLine="0" />
+	</File>
+	<File name="drawing.h" open="1" top="0" tabpos="3">
+		<Cursor position="5922" topLine="154" />
+	</File>
+	<File name="dynamics.h" open="1" top="0" tabpos="4">
+		<Cursor position="6377" topLine="358" />
+	</File>
+	<File name="goal.h" open="1" top="0" tabpos="7">
+		<Cursor position="275" topLine="7" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1875" topLine="27" />
+	</File>
+	<File name="obstacle.h" open="1" top="0" tabpos="5">
+		<Cursor position="92" topLine="0" />
+	</File>
+	<File name="robot.h" open="1" top="0" tabpos="2">
+		<Cursor position="383" topLine="23" />
+	</File>
+</CodeBlocks_layout_file>

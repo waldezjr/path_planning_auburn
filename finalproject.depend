@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1354006222 source:c:\users\waldezjr\documents\mobile\finalproject\finalproject\main.cpp
+	<iostream>
+	<vector>
+	<opencv2/highgui/highgui.hpp>
+	<opencv/cv.h>
+	<opencv2/imgproc/imgproc_c.h>
+	"5530.h"
+
+1352689802 c:\users\waldezjr\documents\mobile\finalproject\finalproject\robot.h
+
+1352664647 c:\users\waldezjr\documents\mobile\finalproject\finalproject\drawing.h
+	"obstacle.h"
+	"goal.h"
+
+1352692008 c:\users\waldezjr\documents\mobile\finalproject\finalproject\dynamics.h
+
+1351640352 c:\users\waldezjr\documents\mobile\finalproject\finalproject\obstacle.h
+
+1351641534 c:\users\waldezjr\documents\mobile\finalproject\finalproject\5530.h
+	"robot.h"
+	"drawing.h"
+	"dynamics.h"
+
+1352659637 c:\users\waldezjr\documents\mobile\finalproject\finalproject\goal.h
+
